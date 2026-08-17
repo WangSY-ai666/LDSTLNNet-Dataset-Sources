@@ -16,7 +16,7 @@ https://www.vicos.si/resources/kolektorsdd2/
 Official source:  
 https://www.kaggle.com/competitions/severstal-steel-defect-detection
 
-## 3. DAGM 2007
+## 3. DAGM 
 
 **DAGM 2007 Dataset**
 
